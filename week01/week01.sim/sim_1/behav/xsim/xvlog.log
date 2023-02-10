@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/week01.srcs/sources_1/new/matrix_mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matrix_mult
+WARNING: [VRFC 10-928] indexed range expression contains whitespace between + and : [C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/week01.srcs/sources_1/new/matrix_mult.v:87]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/week01.srcs/sim_1/new/matrix_mult_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matrix_mult_TB

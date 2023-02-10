@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Nov 12 18:15:37 2022
+# Process ID: 23288
+# Current directory: C:/Users/husain/Documents/GitHub/CIFAR10_CNN
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8168 C:\Users\husain\Documents\GitHub\CIFAR10_CNN\CNN.xpr
+# Log file: C:/Users/husain/Documents/GitHub/CIFAR10_CNN/vivado.log
+# Journal file: C:/Users/husain/Documents/GitHub/CIFAR10_CNN\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/husain/Documents/GitHub/CIFAR10_CNN/CNN.xpr
+update_compile_order -fileset sources_1

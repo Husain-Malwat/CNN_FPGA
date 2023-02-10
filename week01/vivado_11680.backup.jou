@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Nov  1 16:46:01 2022
+# Process ID: 11680
+# Current directory: C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23120 C:\Users\husain\Documents\GitHub\CIFAR10_CNN\week01\week01.xpr
+# Log file: C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/vivado.log
+# Journal file: C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/week01.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/matrix_mult_TB_behav.wcfg
+source matrix_mult_TB.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/matrix_mult_TB_behav.wcfg
+source matrix_mult_TB.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/matrix_mult_TB_behav.wcfg
+source matrix_mult_TB.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/husain/Documents/GitHub/CIFAR10_CNN/week01/matrix_mult_TB_behav.wcfg
+source matrix_mult_TB.tcl
+close_sim
